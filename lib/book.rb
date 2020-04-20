@@ -32,7 +32,7 @@ class Book
   
   
   def turn_page
-    
+    return "can turn the page"
   end 
   
     
